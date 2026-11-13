@@ -769,7 +769,15 @@ function App() {
           >
             Vercel Labs
           </a>
-          . Código desta página no repositório da demo.
+          . Código desta página:{" "}
+          <a
+            href="https://github.com/belchiorjuniorr2/ui-sdk-landing"
+            target="_blank"
+            rel="noreferrer"
+          >
+            belchiorjuniorr2/ui-sdk-landing
+          </a>
+          .
         </p>
       </footer>
     </div>

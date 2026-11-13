@@ -4,6 +4,8 @@ Demonstração **não oficial** do [UI SDK](https://github.com/vercel-labs/ui) d
 
 A página está em português e mostra componentes ao vivo feitos com `@ui-sdk/core` e `@ui-sdk/react`.
 
+- Demo: [ui-sdk-demo-ze.vercel.app](https://ui-sdk-demo-ze.vercel.app)
+
 - Documentação oficial: [ui-sdk.dev/docs](https://ui-sdk.dev/docs)
 - Repositório oficial: [github.com/vercel-labs/ui](https://github.com/vercel-labs/ui)
 
